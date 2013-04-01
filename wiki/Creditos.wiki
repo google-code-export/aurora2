@@ -1,0 +1,15 @@
+#labels Featured
+             http://i.imgur.com/uqL0RVu.png?1
+
+= * Créditos* =
+
+== *CloudSixteen* ==
+=== ^Lead CloudSixteen^ _Kurozael 'Conna' Willes_ ===
+=== ^Lead Developers Team^ _Alex Grist_ ===
+=== ^Code Developer^ _Impulse_ ===
+
+== *Aurora2* ==
+=== ^Community Owner^ _pC | Penaco_ ===
+=== ^Community Co-Owner^ _pC | Neptuno_ ===
+=== ^Lead Programming Team^ _pC | Thadah Denyse_ ===
+=== ^Lead Programming Team^ _pC | Alexey_ ===
