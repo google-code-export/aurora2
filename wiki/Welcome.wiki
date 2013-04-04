@@ -10,6 +10,7 @@ _Nuestro mundo se ha ido deteriorando mas y mas frente al progreso de la Tecnolo
 
 ||*S.O.*||*Rango*||*Nombre*||*STEAM_ID*||*Server Ref.*||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Alexey_||STEAM_0:1:34563849||Lead Administration||
+||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | Thadah_||STEAM_0:0:16250524||Lead pC CW Servers||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
@@ -33,10 +34,6 @@ _Nuestro mundo se ha ido deteriorando mas y mas frente al progreso de la Tecnolo
 *Esperamos que la estancia en el servidor sea de tu agrado, recuerda que siempre que tengas cualquier duda o sugerencia puedes consultar a un SuperAdministrador o algún Miembro del Equipo Técnico*
 
 ||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Alexey*_ ||
-
-
-
-
 
 
 
