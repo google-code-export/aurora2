@@ -2,11 +2,21 @@
 ||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Proyecto - Expansión Social Comunitaria* ||
 
 ===Introducción===
-_En la pasada Reunión del Domingo, día 14 de Abril, uno de los puntos mas polémicos y comentados fue el de la Expansión Social de la Comunidad por las distintas redes sociales de Internet, como por ejemplo FaceBook, Twiter y demás redes conocidas. En la actualidad ya existen paginas de Penaco's Club en estas redes que han sido iniciadas por administradores o usuarios, pero ahora queremos expandir la comunidad por este tipo de redes de forma oficial, y la mejor manera de hacerlo, y que fue comentada en la reunión del pasado domingo, es la de la confección de pequeños grupos de administradores, de 2 a 4 personas que se ocupen de una red social en particular y de publicar en ella todas las noticias y/o eventos de nuestra comunidad para intentar llamar la atención y atraer mas usuarios._
+_En la pasada Reunión del Domingo, día 14 de Abril, uno de los puntos mas polémicos y comentados fue el de la Expansión Social de la Comunidad por las distintas redes sociales de Internet, como por ejemplo FaceBook, Twitter y demás redes conocidas. En la actualidad ya existen paginas de Penaco's Club en estas redes que han sido iniciadas por administradores o usuarios, pero ahora queremos expandir la comunidad por este tipo de redes de forma oficial, y la mejor manera de hacerlo, y que fue comentada en la reunión del pasado domingo, es la de la confección de pequeños grupos de administradores, de 2 a 4 personas que se ocupen de una red social en particular y de publicar en ella todas las noticias y/o eventos de nuestra comunidad para intentar llamar la atención y atraer mas usuarios._
 
 ===Administración===
 
+||*Grupo de FaceBook*||Nombre||Server Ref.||STEAM_ID||Nº||
+||||User1||Ref1||STEAM_ID||1||
+||||User2||Ref2||STEAM_ID||2||
+||||User3||Ref3||STEAM_ID||3||
+||||User4||Ref4||STEAM_ID||4||
 
+||*Grupo de Twitter*||Nombre||Server Ref.||STEAM_ID||Nº||
+||||User1||Ref1||STEAM_ID||1||
+||||User2||Ref2||STEAM_ID||2||
+||||User3||Ref3||STEAM_ID||3||
+||||User4||Ref4||STEAM_ID||4||
 
 ===Redes Sociales Activas===
 
