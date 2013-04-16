@@ -1,0 +1,31 @@
+#labels Phase-Requirements,Phase-Design,Phase-Deploy
+||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Welcome Page* ||
+
+===Introduccion===
+_Bienvenidos al Penaco's Club Spanish Phase Four RP, este gamemode, diseñado y desarrollado por CloudSixteen.com, trata de la cuarta Fase del famoso juego y obra de VaLVe, Portal. Aun con esto, adaptamos nuestro propio Rol dentro del Servidor. En este Servidor no contaras con ayuda de nadie, deberás de aprender a sobrevivir solo en un entorno hostil, hacer amistadas que algún día puedan salvarte la vida, o llegar incluso a crear o formar parte de la Facción que controle el mundo a partir de ahora._
+
+===Historia===
+_Nuestro mundo se ha ido deteriorando mas y mas frente al progreso de la Tecnología, lo que parecía ser una nueva era de avance científico y experimentación energética, dio inicio a la mayor guerra de poderes de la Historia entre las potencias nucleares mundiales. Una carrera por el poder absoluto de la Tierra, acabo en un descontrol militar tan grande, que los ejércitos se vieron reducidos a cenizas en poco menos de 1 año. Tras el trienio vírico de mutación por la radiación nuclear, un Ejercito privado, Umbrella, con falsas promesas de mejora y reconstrucción, inicio una República, corrupta a ojos de muchos, que hicieron lo imposible por derrocarla. Cuando la 1a República llego a su fin gracias a sus propios creadores, se implemento una 2a República no tan democrática como la primera, donde el Ejercito tomaba el control absoluto de la población civil terrestre. Pese a los intentos de muchos de evadir a Umbrella, acabaron siendo perseguidos y aniquilados por sus tropas, quedando únicamente la posibilidad de encarar a la República de igual forma que ella, con un ejercito. A cercanías de 2028, es creada en secreto la United Nations Space Command (UNSC), con la intención de reunir a algunas de las entidades mas poderosas que quedaban, en contra de Umbrella, para restablecer el orden y la democracia en República Capital. En estos últimos años, hasta 2057, Umbrella se ha batido en guerra constante con la UNSC por el control del mundo. Pero nadie se pregunto que hacia la población mientras los militares se mataban entre si... La ciudadanía de república capital, se vio obligada a matar para subsistir, crear bandas de delincuentes para defenderse mejor, y hacer lo que fuese con tal de conseguir Fama, Dinero, Poder y Liderazgo._ _*Este es el Planeta Tierra en la Phase 4, ¿Te atreverás a intentar sobrevivir?*_
+
+===Administración===
+
+||*S.O.*||*Rango*||*Nombre*||*STEAM_ID*||*Server Ref.*||
+||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | Cyumus_||STEAM_0:0:26619193||Lead Administration||
+||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | Papagrimen_||STEAM_0:1:17961230||Co-Lead Administration||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
+
+===Enlaces de Interés===
+[http://www.penacos.com/forum/forum.php Penaco's Club Forums]
+
+*[http://www.penacos.com/forum/forumdisplay.php?13-Half-Life-2-RP-gt-94-23-86-89-27029-lt Spanish HL2RP Forum]*
+
+[http://www.garrysmod.es/bans/index.php?p=banlist Penaco's Club Sourcebans Database]
+
+*[http://capa080.wix.com/aurora2 Aurora2 Oficial Web]*
+
+
+
+*Esperamos que la estancia en el servidor sea de tu agrado, recuerda que siempre que tengas cualquier duda o sugerencia puedes consultar a un SuperAdministrador o algún Miembro del Equipo Técnico*
+
+||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Cyumus*_ ||
