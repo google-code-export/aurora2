@@ -1,0 +1,87 @@
+#labels Phase-Design,Phase-Support
+||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Changelog Tracker* ||
+
+http://i.imgur.com/apxjPg2.png Cambio en Fase Beta
+http://i.imgur.com/aljpHFA.png Cambio de Eliminacion
+http://i.imgur.com/G3gZka1.png Cambio de Fix
+http://i.imgur.com/oJVkC4M.png Cambio de Implementacion
+
+||*Type*||*Summary*||*Release*||*Owner*||*Version*||*Report Change*||*S.O.*||*Game*||
+||http://i.imgur.com/oJVkC4M.png||Cambiado Color del Schema||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/games/gmod.png||
+||http://i.imgur.com/oJVkC4M.png||Implementada Clase Premium||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Añadidas Descargas Basicas de FASTDL||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/apxjPg2.png||Añadidos Modelos para Admins||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Añadido Ducky-Pets Mod para Premiums||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Añadidos Vehículos Militares de Combate y Exploracion||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Añadidos Counters para los Vehiculos Militares||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Cambiada Musica del Menu||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Traducidos Conceptos Basicos de Schema||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Añadido Welcome de MOTD de Aurora2||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+|| || || || || ||
+
+
+
+
