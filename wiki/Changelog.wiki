@@ -17,6 +17,7 @@ http://i.imgur.com/oJVkC4M.png Cambio de Implementacion
 ||http://i.imgur.com/oJVkC4M.png||Cambiada Musica del Menu||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 ||http://i.imgur.com/oJVkC4M.png||Traducidos Conceptos Basicos de Schema||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 ||http://i.imgur.com/oJVkC4M.png||Añadido Welcome de MOTD de Aurora2||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/oJVkC4M.png||Creada Interfaz Grafica de Aurora2 Ejecutable||17-04||Alexey||1.02||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 || || || || || ||
 || || || || || ||
 || || || || || ||
@@ -80,8 +81,4 @@ http://i.imgur.com/oJVkC4M.png Cambio de Implementacion
 || || || || || ||
 || || || || || ||
 || || || || || ||
-|| || || || || ||
-
-
-
 
