@@ -19,7 +19,7 @@ http://i.imgur.com/oJVkC4M.png Cambio de Implementacion
 ||http://i.imgur.com/oJVkC4M.png||Añadido Welcome de MOTD de Aurora2||16-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 ||http://i.imgur.com/oJVkC4M.png||Creada Interfaz Grafica de Aurora2 Ejecutable||17-04||Alexey||1.02||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 ||http://i.imgur.com/apxjPg2.png||[http://i.imgur.com/VYhZyqi.png Añadidos Bussines de los Vehiculos]||18-04||Alexey||1.03||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
-||http://i.imgur.com/apxjPg2.png||Añadidos Drones de Combate de Aperture Science||20-04||Alexey||1.03||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
+||http://i.imgur.com/apxjPg2.png||[http://i.imgur.com/OhNvB9V.png Añadidos Drones de Combate de Aperture Science]||20-04||Alexey||1.03||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 || || || || || ||
 || || || || || ||
 || || || || || ||
