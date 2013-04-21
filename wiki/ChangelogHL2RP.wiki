@@ -8,7 +8,7 @@ http://i.imgur.com/oJVkC4M.png Cambio de Implementacion
 
 ||*Type*||*Summary*||*Release*||*Owner*||*Version*||*Report Change*||*S.O.*||*Game*||
 ||http://i.imgur.com/oJVkC4M.png||Añadido MOTD de Aurora2||18-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/games/gmod.png||
-|| || || || || ||
+||http://i.imgur.com/oJVkC4M.png||Añadidas Patrullas Inteligentes de SNPCs||21-04||Alexey||1.01||[http://capa080.wix.com/aurora2#!contact/c21nl Report]||
 || || || || || ||
 || || || || || ||
 || || || || || ||
