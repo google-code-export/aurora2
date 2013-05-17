@@ -18,8 +18,8 @@ Otra opción es unirse al cuerpo de Protección Civil, un miembro de MetroPolic�
 ===Administración===
 
 ||*S.O.*||*Rango*||*Nombre*||*STEAM_ID*||*Server Ref.*||
-||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Cyumus_||STEAM_0:0:26619193||Lead Administration||
-||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | Papagrimen_||STEAM_0:1:17961230||Co-Lead Administration||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Sacro_||STEAM_0:0:26619193||Lead Administration||
+||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | _||STEAM_0:1:17961230||Co-Lead Administration||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
