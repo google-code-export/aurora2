@@ -1,4 +1,4 @@
-#labels Information,Phase-Requirements,Phase-QA
+#labels Information,Phase-Requirements,Phase-QA,Deprecated
 ||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Welcome Page* ||
 
 http://i.imgur.com/1DsKblj.png
@@ -39,8 +39,6 @@ http://i.imgur.com/1DsKblj.png
 *Esperamos que la estancia en el servidor sea de tu agrado, recuerda que siempre que tengas cualquier duda o sugerencia puedes consultar a un SuperAdministrador o algún Miembro del Equipo Técnico*
 
 ||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Alexey*_ ||
-
-
 
 
 
