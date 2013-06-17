@@ -1,0 +1,29 @@
+#labels Information,Phase-Requirements,Phase-QA
+||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Welcome Page* ||
+
+http://i.imgur.com/TIfENtL.png
+
+===Normas===
+
+_Este es un Servidor de Roleplay Semi-Serio, en el que debes de respetar una seria de normas establecidas por la Administración para el correcto desarrollo y funcionamiento del RolePlay. Sin contar con la normativa básica, podrás encontrar apretando "F1" en el servidor, un menú donde encontrar ayuda y algunos datos básicos de interés que todo usuario debería conocer._
+
+===Administración===
+
+||*S.O.*||*Rango*||*Nombre*||*STEAM_ID*||*Server Ref.*||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Alexey_||STEAM_0:1:34563849||Lead Administration||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
+
+
+===Enlaces de Interés===
+[http://www.penacos.com/forum/forum.php Penaco's Club Forums]
+
+[http://www.garrysmod.es/bans/index.php?p=banlist Penaco's Club Sourcebans Database]
+
+*[http://capa080.wix.com/aurora2 Aurora2 Oficial Web]*
+
+
+
+*Esperamos que la estancia en el servidor sea de tu agrado, recuerda que siempre que tengas cualquier duda o sugerencia puedes consultar a un SuperAdministrador o algún Miembro del Equipo Técnico*
+
+||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Alexey*_ ||
