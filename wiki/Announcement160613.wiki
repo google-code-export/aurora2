@@ -1,2 +1,11 @@
 #labels Information,Phase-QA
-||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Announcements #160613* ||
+||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Tracker #160613* ||
+
+----
+#280613 94.23.86.89:27028
+{{{
+Cambiado "intro_logo" a phasefour_logo_a2.png
+Subidos "gamemode_content" en FastDL: GMOD_PhaseFourRP
+Instalado "cwPhaseFour" en localhost
+Instalado "clockwork" en localhost
+}}}
