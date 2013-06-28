@@ -4,6 +4,11 @@
 ----
 #280613 94.23.86.89:27028
 {{{
+Traducido "sv_schema.lua" a Spanish_leng
+Traducido "sv_hooks.lua" a Spanish_leng
+Traducido "sh_schema.lua" a Spanish_leng
+Traducido "cl_schema.lua" a Spanish_leng
+Traducido "cl_hooks.lua" a Spanish_leng
 Cambiado "intro_logo" a phasefour_logo_a2.png
 Subidos "gamemode_content" en FastDL: GMOD_PhaseFourRP
 Instalado "cwPhaseFour" en localhost
