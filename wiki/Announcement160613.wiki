@@ -4,6 +4,8 @@
 ----
 #280613 94.23.86.89:27028
 {{{
+Traducido "schema/augments" a Spanish_leng
+Traducido "schema/victories" a Spanish_leng
 Traducido "sv_schema.lua" a Spanish_leng
 Traducido "sv_hooks.lua" a Spanish_leng
 Traducido "sh_schema.lua" a Spanish_leng
