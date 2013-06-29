@@ -5,6 +5,7 @@
 ||#290613 94.23.86.89:27028||*Revisión 1.0.1*||
 
 {{{
++ Traducido "schema/augments" a Spanish_leng
 + Traducido "schema/items" a Spanish_leng
 + Cambiado "loading_url" a ./chimeramotd_files/aurora2_logo_directory.png
 + Subidos "map_content" en FastDL: GMOD_PhaseFourRP
