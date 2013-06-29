@@ -1,8 +1,20 @@
 #labels Information,Phase-QA
-||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Tracker #160613* ||
+||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Tracker* ||
 
 ----
-#280613 94.23.86.89:27028
+||#290613 94.23.86.89:27028||*Revisión 1.0.1*||
+
+{{{
+Cambiado "loading_url" a ./chimeramotd_files/aurora2_logo_directory.png
+Subidos "map_content" en FastDL: GMOD_PhaseFourRP
+Cambiado "server_level" a rp_ineu_valley_v1a.bsp
+Traducido "schema/attributes" a Spanish_leng
+Traducido "schema/derma" a Spanish_leng
+Traducido "schema/libraries" a Spanish_leng
+}}}
+----
+||#280613 94.23.86.89:27028||*Revisión 1.0.0*||
+
 {{{
 Traducido "schema/augments" a Spanish_leng
 Traducido "schema/victories" a Spanish_leng
@@ -16,3 +28,4 @@ Subidos "gamemode_content" en FastDL: GMOD_PhaseFourRP
 Instalado "cwPhaseFour" en localhost
 Instalado "clockwork" en localhost
 }}}
+----
