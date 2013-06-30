@@ -5,6 +5,7 @@
 ||#300613 94.23.86.89:27028||*Revisión 1.0.1*||
 
 {{{
++ Eliminada nueva Faccion: SuperAdministracion
 + Añadida nueva Faccion: SuperAdministracion
 + Traducido "schema/classes" a Spanish_leng
 + Traducido "schema/factions" a Spanish_leng
