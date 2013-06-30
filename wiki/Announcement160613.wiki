@@ -5,6 +5,10 @@
 ||#300613 94.23.86.89:27028||*Revisión 1.0.1*||
 
 {{{
+Programada Inauguración de "Penaco's CW:PhaseFour" en Beta 1.0.1
++ Configurado "clockwork_system"
++ Cambiado "gamemode_subcredits"
++ Cambiado "gamemode_credits"
 + Eliminada nueva Faccion: SuperAdministracion
 + Añadida nueva Faccion: SuperAdministracion
 + Traducido "schema/classes" a Spanish_leng
