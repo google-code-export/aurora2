@@ -5,6 +5,10 @@
 ||#010613 94.23.86.89:27028||*Revisión 1.0.2*||
 
 {{{
++ Subidos "map_content" en FastDL: GMOD_PhaseFourRP
++ Cambiado "intro_sound" de "motd_phasefourrp.htm"
++ Cambiado "ws_colection_content"
++ Cambiado "server_level" a rp_salvation_2_stalker.bsp
 + Añadida nueva Victoria: Caminante del Yermo - Los berserkers del Yermo
 + Cambiado "vehicles_var" de los "p4_vehicles"
 }}}
