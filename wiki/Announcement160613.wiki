@@ -5,6 +5,8 @@
 ||#310613 94.23.86.89:27028||*Revisión 1.0.2*||
 
 {{{
++ Añadida nueva Victoria: Caminante del Yermo - Los berserkers del Yermo
++ Cambiado "vehicles_var" de los "p4_vehicles"
 + Añadida nueva Victoria: Caminante del Yermo - Legion de Crayven
 + Añadida "aurora2_tracker" al inicio del servidor
 + Subidos "p4_vehicles"
