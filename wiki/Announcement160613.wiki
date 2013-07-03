@@ -5,6 +5,7 @@
 ||#030713 94.23.86.89:27028||*Revisión 1.0.2*||
 
 {{{
++ Añadida nueva Whitelist: Allowed Props
 + Añadida nueva Plug-in: Third Person
 + Añadida nueva Add-on: Weather Mod
 }}}
