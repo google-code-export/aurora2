@@ -5,6 +5,10 @@
 ||#030713 94.23.86.89:27028||*Revisión 1.0.2*||
 
 {{{
++ Subidos "gasmasks_content" en FastDL: GMOD_PhaseFourRP
++ Añadida nueva Plug-in: GasMasks
++ Añadida nueva Plug-in: Battery
++ Añadida nueva Plug-in: Digital Locker
 + Añadida nueva Plug-in: Radiation
 + Añadida nueva Whitelist: Allowed Props
 + Añadida nueva Plug-in: Third Person
