@@ -5,6 +5,7 @@
 ||#040713 94.23.86.89:27028||*Revisión 1.0.3*||
 
 {{{
++ Añadida autenticacion de CloudAuthX
 + Añadida nueva Plug-in: Primary Needs
 }}}
 ----
