@@ -2,6 +2,16 @@
 ||http://static.wix.com/media/03710f_a1fd5310e91a5d4156458babdc660116.png_srz_70_50_75_22_0.50_1.20_0.00_png_srz|| *Aurora2 Tracker* ||
 
 ----
+||#080713 94.23.86.89:27028||*Revisión 1.0.5*||
+
+{{{
++ Subidos "080713_content" en FastDL: GMOD_PhaseFourRP
++ Añadida nueva Add-on: Ambient Sounds by Aurora2
++ Añadida "republic_gold_bar"
++ Cambiado "cash_model"
++ Añadida nueva Add-on: Atmosphere
+}}}
+----
 ||#070713 94.23.86.89:27028||*Revisión 1.0.4*||
 
 {{{
