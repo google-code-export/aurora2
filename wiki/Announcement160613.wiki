@@ -5,6 +5,7 @@
 ||#100713 94.23.86.89:27028||*Revisión 1.0.5*||
 
 {{{
++ Cambiado "cl_directory.lua" a "cl_directory_a2.lua"
 + Añadida nueva Plug-in: OOC Radio
 + Añadida nueva Plug-in: Notepad
 + Añadida nueva Plug-in: Campfire
