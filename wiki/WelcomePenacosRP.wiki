@@ -3,9 +3,15 @@
 
 http://i.imgur.com/TIfENtL.png
 
-===Normas===
+===Introducción===
+_Bienvenidos al Penaco's Club Spanish RP, un Servidor de Semi-Serious RolePlay para todos los usuarios y administradores de la Comunidad. Este Servidor ha sido desarrollado por la Plataforma Aurora2 para la Iniciativa 101._
 
-_Este es un Servidor de Roleplay Semi-Serio, en el que debes de respetar una seria de normas establecidas por la Administración para el correcto desarrollo y funcionamiento del RolePlay. Sin contar con la normativa básica, podrás encontrar apretando "F1" en el servidor, un menú donde encontrar ayuda y algunos datos básicos de interés que todo usuario debería conocer._
+|| *Importante:* || La Descarga de Contenidos del Servidor es totalmente automática y se actualiza de igual forma. ||
+
+===Ultimas Noticias===
+|| *Actual Server Revision:* _1.0.0_ ||
+
+_El Servidor se encuentra en su primera fase Beta para el testeo, comprobación y funcionalidad operativa de todos sus módulos. Aun así, invitamos a los usuarios que quieran entrar a participar en el Beta-Test._
 
 ===Administración===
 
@@ -14,9 +20,18 @@ _Este es un Servidor de Roleplay Semi-Serio, en el que debes de respetar una ser
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
+||N/A||http://i.imgur.com/Dw6rLsR.png||Bellota||STEAM_0:0:24738004||Code Developer||
+||N/A||http://i.imgur.com/Dw6rLsR.png||Olmedo||STEAM_0:1:33232146||Lead Tecnic Team||
+||N/A||http://i.imgur.com/Dw6rLsR.png||Shayco112||STEAM_0:0:24012582||Tecnic Team Member||
+||N/A||http://i.imgur.com/Dw6rLsR.png||CrixixHL||STEAM_0:1:34996859||Tecnic Team Member||
+||N/A||http://i.imgur.com/Dw6rLsR.png||Prototype||STEAM_0:0:41786308||Tecnic Team Member||
+||N/A||http://i.imgur.com/Dw6rLsR.png||Hirako||STEAM_0:1:24160155||Tecnic Team Member||
+||N/A||http://i.imgur.com/Dw6rLsR.png||Polita||STEAM_0:1:17961230||Tecnic Team Member||
 
 ===Enlaces de Interés===
 [http://www.penacos.com/forum/forum.php Penaco's Club Forums]
+
+*[http://www.penacos.com/forum/forumdisplay.php?23-94-23-86-89-27022-gt-gt-Spanish-RP-lt-lt Penaco's Spanish RP Forum]*
 
 [http://www.garrysmod.es/bans/index.php?p=banlist Penaco's Club Sourcebans Database]
 
