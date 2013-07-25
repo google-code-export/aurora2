@@ -20,13 +20,13 @@ _El Servidor se encuentra en su primera fase Beta para el testeo, comprobación 
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
-||N/A||http://i.imgur.com/Dw6rLsR.png||Bellota||STEAM_0:0:24738004||Code Developer||
-||N/A||http://i.imgur.com/Dw6rLsR.png||Olmedo||STEAM_0:1:33232146||Lead Tecnic Team||
-||N/A||http://i.imgur.com/Dw6rLsR.png||Shayco112||STEAM_0:0:24012582||Tecnic Team Member||
-||N/A||http://i.imgur.com/Dw6rLsR.png||CrixixHL||STEAM_0:1:34996859||Tecnic Team Member||
-||N/A||http://i.imgur.com/Dw6rLsR.png||Prototype||STEAM_0:0:41786308||Tecnic Team Member||
-||N/A||http://i.imgur.com/Dw6rLsR.png||Hirako||STEAM_0:1:24160155||Tecnic Team Member||
-||N/A||http://i.imgur.com/Dw6rLsR.png||Polita||STEAM_0:1:17961230||Tecnic Team Member||
+||N/A||http://i.imgur.com/lxCuX22.png||Bellota||STEAM_0:0:24738004||Code Developer||
+||N/A||http://i.imgur.com/lxCuX22.png||Olmedo||STEAM_0:1:33232146||Lead Tecnic Team||
+||N/A||http://i.imgur.com/lxCuX22.png||Shayco112||STEAM_0:0:24012582||Tecnic Team Member||
+||N/A||http://i.imgur.com/lxCuX22.png||CrixixHL||STEAM_0:1:34996859||Tecnic Team Member||
+||N/A||http://i.imgur.com/lxCuX22.png||Prototype||STEAM_0:0:41786308||Tecnic Team Member||
+||N/A||http://i.imgur.com/lxCuX22.png||Hirako||STEAM_0:1:24160155||Tecnic Team Member||
+||N/A||http://i.imgur.com/lxCuX22.png||Polita||STEAM_0:1:17961230||Tecnic Team Member||
 
 ===Enlaces de Interés===
 [http://www.penacos.com/forum/forum.php Penaco's Club Forums]
