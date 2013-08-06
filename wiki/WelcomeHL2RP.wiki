@@ -18,8 +18,7 @@ Otra opción es unirse al cuerpo de Protección Civil, un miembro de MetroPolic�
 ===Administración===
 
 ||*S.O.*||*Rango*||*Nombre*||*STEAM_ID*||*Server Ref.*||
-||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Sacro_||STEAM_0:0:26619193||Lead Administration||
-||N/A||http://www.garrysmod.es/bans/images/shield.png||_pC | _||STEAM_0:1:17961230||Co-Lead Administration||
+||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Alexey_||STEAM_0:0:26619193||Lead Administration||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
@@ -30,10 +29,8 @@ Otra opción es unirse al cuerpo de Protección Civil, un miembro de MetroPolic�
 
 [http://www.garrysmod.es/bans/index.php?p=banlist Penaco's Club Sourcebans Database]
 
-*[http://capa080.wix.com/aurora2 Aurora2 Oficial Web]*
-
 
 
 *Esperamos que la estancia en el servidor sea de tu agrado, recuerda que siempre que tengas cualquier duda o sugerencia puedes consultar a un SuperAdministrador o algún Miembro del Equipo Técnico*
 
-||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Sacro*_ ||
+||http://www.garrysmod.es/bans/images/shield.png|| _*pC | Alexey*_ ||
