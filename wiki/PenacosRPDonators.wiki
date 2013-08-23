@@ -36,7 +36,7 @@ _Los Donators o Donadores, son aquellas personas que contribuyen económicamente
 
 *¿Como puedo ser Donator?*
 
-  * Para ser Donator, necesitas contribuir económicamente a la Comunidad, puede ser mediante transferencia bancaria o por medio de PayPal. 1 Pago de Donator realizado equivale a 2 meses de Donator en el Servidor. Si estas interesado mas abajo encontraras datos sobre el proceso a seguir para ser Donator.
+  * Para ser Donator, necesitas contribuir económicamente a la Comunidad, puede ser mediante transferencia bancaria o por medio de PayPal. 1 Pago de Donator realizado equivale a 6 meses de Donator en el Servidor. Si estas interesado mas abajo encontraras datos sobre el proceso a seguir para ser Donator.
 
 *¿Los Donator son Admins?*
 
@@ -44,7 +44,7 @@ _Los Donators o Donadores, son aquellas personas que contribuyen económicamente
 
 ===Proceso para Donators===
 
-  * *Fecha de Caducidad de un Pago:* 2 Meses
+  * *Fecha de Caducidad de un Pago:* 6 Meses
   * *Valor de un Pago:* 5 €
   * *Medio de Pago:*
 
