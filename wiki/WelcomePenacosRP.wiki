@@ -9,7 +9,13 @@ _Bienvenidos al Penaco's Club Spanish RP, un Servidor de Semi-Serious RolePlay p
 || *Importante:* || La Descarga de Contenidos del Servidor es totalmente automática y se actualiza de igual forma. ||
 
 ===Ultimas Noticias===
-|| *Actual Server Revision:* _1.0.0_ ||
+|| *Actual Server Revision:* _2.4.3_ ||
+
+  * PenacosRP Launcher v2.4.3
+
+_Saludos usuarios y administradores, tras el periodo de Fase Alpha y de la primera Beta del Servidor, hemos querido daros una manera nueva y poco común para poder jugar siempre que queráis a PenacosRP. Un Launcher (Acceso Directo) personalizado que podréis tener en vuestro Escritorio para entrar a PenacosRP cuando queráis. Así que si eres un amanete de PenacosRP, a que esperas a descargarte el [https://code.google.com/p/aurora2/downloads/detail?name=PenacosRP%20Launcher%20v2.4.3.rar&can=2&q=#makechanges "PenacosRP Launcher v2.4.3"]._
+
+  * Servidor en Fase BETA
 
 _El Servidor se encuentra en su primera fase Beta para el testeo, comprobación y funcionalidad operativa de todos sus módulos. Aun así, invitamos a los usuarios que quieran entrar a participar en el Beta-Test._
 
