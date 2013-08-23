@@ -28,6 +28,18 @@ _El Servidor se encuentra en su primera fase Beta para el testeo, comprobación 
 ||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:24160155||Tecnic Team Member||
 ||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:17961230||Tecnic Team Member||
 
+===Requisitos del Sistema===
+
+{{{
+# Garry's Mod 13.07.07
+# Half-Life 2
+# Half-Life: Episode 1
+# Half-Life: Episode 2 %
+# Counter-Strike: Source
+# Team Fortress 2 %
+}}}
+% - Opcional / Recomendado
+
 ===Enlaces de Interés===
 [http://www.penacos.com/forum/forum.php Penaco's Club Forums]
 
