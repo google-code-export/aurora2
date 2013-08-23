@@ -20,14 +20,6 @@ _El Servidor se encuentra en su primera fase Beta para el testeo, comprobación 
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Penaco_||STEAM_0:1:4524785||
 ||http://www.garrysmod.es/bans/images/w.png||http://www.garrysmod.es/bans/images/shield.png||_pC | Neptuno_||STEAM_0:0:11028675||
 
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:0:24738004||Code Developer||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:33232146||Lead Tecnic Team||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:0:24012582||Tecnic Team Member||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:34996859||Tecnic Team Member||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:0:41786308||Tecnic Team Member||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:24160155||Tecnic Team Member||
-||N/A||http://i.imgur.com/lxCuX22.png||||STEAM_0:1:17961230||Tecnic Team Member||
-
 ===Requisitos del Sistema===
 
 {{{
